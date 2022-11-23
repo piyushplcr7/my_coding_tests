@@ -1,0 +1,2 @@
+/scratch/users/ppanchal/Coding tests/cmake/python3check/build/CMakeFiles/rebuild_cache.dir
+/scratch/users/ppanchal/Coding tests/cmake/python3check/build/CMakeFiles/edit_cache.dir

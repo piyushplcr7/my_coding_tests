@@ -1,0 +1,1 @@
+fgrep 'bitoos' test.txt
